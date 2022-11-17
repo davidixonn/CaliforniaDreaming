@@ -8,10 +8,15 @@ Regional Cost of Housing/Gentrification impact on Poverty Level
 **Team Members**
 
 David Dixon
+
 David Corral
+
 Ana Gonzalez
+
 Cristian Jung
+
 Quoc Tran
+
 Vincent Passanisi
 
 ## Project Description/Outline
@@ -31,18 +36,26 @@ Our project proposes to examine the relationship between the cost of housing and
 ## Datasets to Be Used
 
 U.S. Census Data
+
 FRED Economic Data
+
 Zillow Home Valuation API
+
 Housing Prices API
 
 
 ## Task Breakdown
 
 Repository Management - David Dixon
+
 Data Exploration and Clean-up - Ana Gonzalez
+
 Data Organization and Data Frame Creation - Quoc Tran
+
 Data Analysis - Cristian Jung
+
 Graphs and Charts - Daniel Corral
+
 Final Organization of Data/PowerPoint - Vincent Passanisi
 
 
