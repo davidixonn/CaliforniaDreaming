@@ -30,6 +30,8 @@ It is no surprise that the cost of housing in California continues to rise. Fact
 
 Data on median rents by California county for the years 2015 to 2019 was acquired from Zillow. Counties were categorized by region, and then each given an identifier depending on where the county was located. Counties were identified as inland or coastal, and then again by whether they were in the north, south, or central part of the state.
 
+![Inland vs Costal median rents](cal_rents_coast_inland.png)
+
 The first chart shows the cost of residential rental properties for inland counties versus coastal counties for the period 2015 to 2022. Rents for both inland and coastal counties rose steadily from 2015 to 2020, but then accelerated at the beginning of 2020. The increase in cost of inland rentals actually slowed in 2019 but accelerated at the same pace at inland rentals in 2020. Because costs for both increased at relative similar rates, inland properties, which were about 55% the cost of coastal properties, were over 70% of coastal properties by 2022. Inland properties are still a bargain compared to living in coastal counties in California.
 
 The second chart shows median rents broken out by northern, central, and southern regions of the state for the same period of 2015 to 2022. The cost of living in the central part of the state is far less expensive than living in the north which includes Silicon Valley and the San Francisco metropolitan area, or the south which includes Los Angeles, Orange, and San Diego counties. It is interesting to note how median rents accelerated far more quickly than the other regions after 2020.
