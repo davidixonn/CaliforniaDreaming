@@ -18,6 +18,14 @@
   * **Population** - This folder contains data observed for population by counties for  and Visualizations
   * **Housing** - This folder contains data observed for both rental rates when renting in California, as well median prices for housing in California. Visualizations are also   included.
   * **Resources** - This folder contains csv files as well as any other resources used to gather the information provided.
+      * county_list.csv
+      * merged_population2.csv
+      * County_zori_sm_sa_month.csv
   
 # Results  
  
+# References 
+  * **US Census**
+  * **Years referenced** - 
+    * Population: 2010-2019 
+    * Housing: Rents- 2015-2022 / Median Prices of Hosuing - 2010-2019
