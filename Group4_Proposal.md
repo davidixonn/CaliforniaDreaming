@@ -1,9 +1,9 @@
 ## Project 1 Proposal
 ### Group 4
 
-# Project Title
+# Why Move to California?
 
-Regional Cost of Housing/Gentrification impact on Poverty Level
+Factors affecting one's decision whether to move to the State of California
 
 **Team Members**
 
@@ -15,7 +15,7 @@ Ana Gonzalez
 
 Cristian Jung
 
-Quoc Tran
+Tran Quoc
 
 Vincent Passanisi
 
@@ -58,17 +58,13 @@ Housing Prices API
 
 ## Task Breakdown
 
-Repository Management - David Dixon
+Repository Management and Employment Data - David Dixon and Tran Quoc
 
-Data Exploration and Clean-up - Ana Gonzalez
+Cost of Housing and Rent - Ana Gonzalez and Vincent Passanisi
 
-Data Organization and Data Frame Creation - Quoc Tran
+Population - Cristian Jung and Daniel Corral
 
-Data Analysis - Cristian Jung
-
-Graphs and Charts - Daniel Corral
-
-Final Organization of Data/PowerPoint - Vincent Passanisi
+Final Organization of Data/PowerPoint - Group Effort
 
 ## Data Source Links
 
@@ -77,6 +73,10 @@ https://www.census.gov/construction/bps/txt/tb3u2018.txt
 https://www.census.gov/construction/bps/msaannual.html
 
 https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail.html
+
+https://www.car.org/marketdata/data/
+
+https://www.zillow.com/research/data/
 
 
 
