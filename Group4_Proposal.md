@@ -1,9 +1,9 @@
 ## Project 1 Proposal
 ### Group 4
 
-# Project Title
+# Why Move to California?
 
-Regional Cost of Housing/Gentrification impact on Poverty Level
+Factors affecting one's decision whether to move to the State of California
 
 **Team Members**
 
@@ -15,7 +15,7 @@ Ana Gonzalez
 
 Cristian Jung
 
-Quoc Tran
+Tran Quoc
 
 Vincent Passanisi
 
