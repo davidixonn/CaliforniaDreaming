@@ -21,39 +21,27 @@ Vincent Passanisi
 
 ## Project Description/Outline
 
-Our project proposes to examine the relationship between the cost of housing and the poverty level by region in the United States. How does the increasing cost of housing/gentrification in an area affect the movement of people across regions, and the number of people who are categorized as below the poverty level?
+Our project proposes to examine what factors might affect one's decision to move to California from out of state. Aside from the standard answer that people move to California because of the weather, we look at demographics, cost of housing, and employment opportunities.
 
 ## Research Questions to Answer
 
-* What impact does the cost of housing have on the poverty level in different regions of the United States (California)?
-* How does gentrification and the cost of housing affect where people of different income levels move to?
-* What is the relationship between rental vacancies and the cost of housing?
-* How does consumer spending affect the cost of housing and the poverty level?
-* In regions with higher consumer spending, does education level have an impact on what people spend on housing?
-* In a general sense, are the numbers of people below the poverty level increasing or decreasing?
-* Trends in Income?
-* Where is the greatest population growth in California?
-* Is the population growth in an area related to the weather?
-
-* Median Income vs. Cost of Housing
-* Cost of Living
-* Unemployment vs. Job opportunities
-* Weather
-* Education Opportunities? Cost of Education?
-* Cost of commuting/transportation?
-* Number of Restaurants/Diversity of Restaurants
-* Economic Opportunities
-
+* What are the most densely populated counties in California?
+* Where in California do we see the most growth?
+* How does population compare regionally from the coastal counties to the inland counties?
+* How is the cost of housing changing in California?
+* How much does it cost to live in a coastal county vs. an inland county?
+* How much do rents vary in northern, central, and southern counties in California?
+* Is there a relationship between changing rents and changing population?
+* Where are employment opporunities increasing in California?
+* In what industries are most employment opportunities in California?
 
 ## Datasets to Be Used
 
 U.S. Census Data
 
-FRED Economic Data
+Zillow Median Rents API
 
-Zillow Home Valuation API
-
-Housing Prices API
+California Association of Realtors Housing Prices API
 
 
 ## Task Breakdown
