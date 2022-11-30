@@ -36,7 +36,7 @@ The first chart shows the cost of residential rental properties for inland count
 
 The second chart shows median rents broken out by northern, central, and southern regions of the state for the same period of 2015 to 2022. The cost of living in the central part of the state is far less expensive than living in the north which includes Silicon Valley and the San Francisco metropolitan area, or the south which includes Los Angeles, Orange, and San Diego counties. It is interesting to note how median rents accelerated far more quickly than the other regions after 2020.
 
-![Median Rents - North SOuth Central](cal_median_rents_2015_to_2019.png)
+![Median Rents - North South Central](cal_median_rents_2015_to_2019.png)
 
 The final chart in this series seeks to understand if there is a relationship between the percentage increase in rents and the percentage increase in population. This chart looks at the data available between 2015 and 2019. As more data becomes available, it will be interesting to see if the relationship changed after 2020. Available data for the change in median rents in California counties was plotted on a scatter plot against the change in population for the same period. Rents in that time period increased from 11 to almost 26% while the population increased by only 6% in the fasted growing county and decreased by over 2% in the two slowest growing counties.
 
