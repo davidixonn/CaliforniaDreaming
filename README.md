@@ -47,6 +47,9 @@ A line regression was run and plotted with an r-value of 0.48, which is consider
  
 # References 
   * **US Census**
+  * **Zillow**
+  * **California Association of Realtors**
+
   * **Years referenced** - 
     * Population: 2010-2019 
-    * Housing: Rents- 2015-2022 / Median Prices of Hosuing - 2010-2019
+    * Housing: Median Rents - 2015-2022 / Median Prices of Housing - 2010-2022
