@@ -26,22 +26,16 @@
 
 * **Population**
 
-General Population Analysis
-
-*How dense is the population per county in California?
+*General Population Analysis
 
 Analysis of population in Californian Counties was done utilizing US Census data. A bar graph was used to compare the population in 2019 for all counties. From the bar graph it is clear that of all California, Los Angeles county is far more populous than any other counties in California.
 The bar graph also notes, counties that do not come anywhere close to the population in Los Angeles county.
 
-*Where do we see population growth in California?
-
 Population growth was analyzed by finding the difference in population from the years 2010 to 2019. From the calculations, it was derived that overall there was a population growth. It was found that the following 13 counties were shrinking in population: Alpine county, Contra Costa county, Inyo county, Lassen county, Mariposa county, Mendocino county, Modoc county, Plumas county, Sierra county, Siskiyou county, Trinity county, and Tuolumne county.
-
-*What are the differences in population between coastal and inland counties?
 
 For comparing the coastal and inland counties, the population data was sorted. In doing so, a pie chart was plotted with 2019 population data, and a bar graph was plotted for population growth between 2010 to 2019. From the pie chart, it can be deducted that Coastal counties are more populous. From the bar graph, it can be deducted that Inland counties had a bigger growth in population. 
 
-Demographics Analysis
+*Demographics Analysis
 
 Understanding a demographic of a state can help finalize uncertainty. The state of California has grown an average of 0.5% per year over the last decade of 2010 to 2019. This growth allows for a variety of age groups to be present. Young adults from the age of 20 to newborns are present in larger numbers than adults over the age of 20. In just the male data alone, there is a 4.5% increase in the youth compared to the male adults in a 10 year span.
 
