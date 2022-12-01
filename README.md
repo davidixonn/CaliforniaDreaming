@@ -24,6 +24,12 @@
   
 # Results
 
+* **Population**
+Understanding a demographic of a state can help finalize uncertainty. The state of California has grown an average of 0.5% per year over the last decade of 2010 to 2019. This growth allows for a variety of age groups to be present. Young adults from the age of 20 to newborns are present in larger numbers than adults over the age of 20. In just the male data alone, there is a 4.5% increase in the youth compared to the male adults in a 10 year span. 
+
+Now how diverse is the age group for both males and females over the age of 20 as a state? The bar charts show the populace by age and total numbers. The taller bars on the left hand side indicate a balance in adults. The data shows a higher retention for adult males between the ages of 21 to 49. Afterwards, a decline occurs in the amount of males present during the later years of 50. There is a 11% increase in the female population from the age of 50 and older present in California.
+
+
 * **HOUSING**
 
 It is no surprise that the cost of housing in California continues to rise. Factors such as weather, job opportunities, and quality of life are often cited as reasons why people continue to move to the state despite ever increasing cost of living. Are housing costs simply a matter of population rising more quickly than housing can be built? High demand for housing and lagging increases in supply to meet that demand could be one answer. The next few charts look at the median cost of residential rental properties in California by region.
