@@ -13,11 +13,26 @@
 
   We have gathered data for you to decide what County better suits YOU. The aim of our project is to uncover various factors to consider when moving to California. We will examine the best choice for living, based on Population, Housing, Employment, and their relationships between regions in California. We have come to the conclusion, based on the data gathered and observed, California is ideal for anyone.
 
-# Files 
+# Files
+
+**Main Notebook Files**
+
+* demographiccodev2.ipynb
+* Projet-1.ipynb
+* cal_rent_FINAL.ipynb
+* general_population.ipynb
+* Median_Housing_Data_FINAL.ipynb
+
+* Group4_Proposal.md
+
+* Slide presentation: WhyMovetoCalifornia.pdf
+
   * **Employment/project1.code** - This folder contains all the data observed for Employment in California as well as visualizations for the analysis.
-  * **Population** - This folder contains data observed for population by counties for  and Visualizations
-  * **Housing** - This folder contains data observed for both rental rates when renting in California, as well median prices for housing in California. Visualizations are also   included.
+
+  * **Housing** - This folder contains data observed for both rental rates when renting in California, as well median prices for housing in California. Visualizations are also included.
+
   * **Resources** - This folder contains csv files as well as any other resources used to gather the information provided.
+
       * county_list.csv
       * merged_population2.csv
       * County_zori_sm_sa_month.csv
@@ -38,6 +53,8 @@ For comparing the coastal and inland counties, the population data was sorted. I
 *Demographics Analysis
 
 Understanding a demographic of a state can help finalize uncertainty. The state of California has grown an average of 0.5% per year over the last decade of 2010 to 2019. This growth allows for a variety of age groups to be present. Young adults from the age of 20 to newborns are present in larger numbers than adults over the age of 20. In just the male data alone, there is a 4.5% increase in the youth compared to the male adults in a 10 year span.
+
+![Daniel's chart](output/Total%20Number%20of%20Males%20in%20Each%20Age%20Group%2021%20and%20over.png)
 
 Now how diverse is the age group for both males and females over the age of 20 as a state? The bar charts show the populace by age and total numbers. The taller bars on the left hand side indicate a balance in adults. The data shows a higher retention for adult males between the ages of 21 to 49. Afterwards, a decline occurs in the amount of males present during the later years of 50. There is a 11% increase in the female population from the age of 50 and older
 
