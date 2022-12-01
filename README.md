@@ -24,7 +24,7 @@
   
 # Results
 
-* **Population**
+* **POPULATION**
 
 *General Population Analysis
 
