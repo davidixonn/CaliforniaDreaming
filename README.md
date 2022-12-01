@@ -65,7 +65,12 @@ A line regression was run and plotted with an r-value of 0.48, which is consider
 
 The US Census data for job opportunities was utilized for employment analysis. To begin, the data was formatted and cleaned to look at a ten year span from 2010 to 2019. From the ten year span, a beginning (2010), middle (2015) and end year were selected as key points for analysis. The mean, median, variance, standard deviation and SEM were calculated from the three key years. Our cleaned data allowed for us to see the top five counties with the most employment: Los Angeles County, Santa Clara County, Orange County, San Diego County and Alameda County. A bar graph was used to compare the means, medians, variances, standard deviations and SEMs for the five counties  From the bar graph it is clear that of all California, Los Angeles County had the most employed compared to other counties for each respecrtive year.
 
+![Employment graph](https://user-images.githubusercontent.com/113266571/204950417-51d456fd-1fa3-4df6-b4e5-c72928b41cbc.png)
+
+
 A bar graph was constructed to focus in on Los Angeles County, the most employed County. For the year 2019, the top five most employed per industry title were Motion Picture and Sound Recording, Private Service Providing, Full-Service Restaurants, Restaurants and Limited-Service Eating Places. Conclusions that were drawn from this analysis and visual is that Los Angeles County has a heavy concentration of workers that are related to food services. The amount of employed in the industry of Motion Picture and Sound Recording reinforces the premotion that many have of the relationship between Los Angeles and media.
+
+![Pie Chart LA 2019](https://user-images.githubusercontent.com/113266571/204950435-7cfdf080-dbd3-49db-8090-d497436bcfbe.png)
 
 
 
