@@ -5,7 +5,7 @@
 * Vincent Passanisi
 * Cristian Jung
 * Ana Gonzalez
-* Tran Raphael Quoc Dan
+* Raphael Quoc Tran
 * Daniel Corral
 
 
